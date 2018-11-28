@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'Two other passengers, besides the one, were plodding up the hill by the side of the mail.',
   'example2':
-      'Now, I know that there are seventeen steps, because I have both seen and observed.',
+      'A man entered who could hardly have been less than six feet six inches in height, with the chest and limbs of a Hercules.',
   'example3':
       'At early dawn he came upon Sir Ronald and Sir Marvin who had found rest along the wayside.'      
 };
