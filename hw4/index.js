@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Two other passengers, besides the one, were plodding up the hill by the side of the mail.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Now, I know that there are seventeen steps, because I have both seen and observed.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'At early dawn he came upon Sir Ronald and Sir Marvin who had found rest along the wayside.'      
 };
 
 function status(statusText) {
